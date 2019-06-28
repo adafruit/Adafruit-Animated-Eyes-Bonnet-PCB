@@ -8,11 +8,11 @@ PCB files for the Adafruit Animated Eyes Bonnet. Format is EagleCAD schematic an
 
 ### Description
 
-Bosch has stepped up their game with their new BME280 sensor, an environmental sensor with temperature, barometric pressure and humidity! This sensor is great for all sorts of weather/environmental sensing and can even be used in both I2C and SPI!
+The Snake Eyes Bonnet is a Raspberry Pi accessory for driving two 128x128 pixel OLED or TFT LCD displays, and also provides four analog inputs for sensors. It's perfect for making cosplay masks, props, spooky sculptures for halloween, animatronics, robots...anything where you want to add a pair of animated eyes!
 
-This precision sensor from Bosch is the best low-cost sensing solution for measuring humidity with ±3% accuracy, barometric pressure with ±1 hPa absolute accuraccy, and temperature with ±1.0°C accuracy. Because pressure changes with altitude, and the pressure measurements are so good, you can also use it as an altimeter with  ±1 meter or better accuracy!
+This product is just the Pi Bonnet itself, and some headers so you can plug it into a Pi. While it will work with any Raspberry Pi with a 2x20 Header (Pi B+, Pi 2, Pi 3, Pi Zero, etc) you'll get best performance from a Pi 3 since we do some heavy duty OpenGL rendering!
 
-The BME280 is the next-generation of sensors from Bosch, and is the upgrade to the BMP085/BMP180/BMP183 - with a low altitude noise of 0.25m and the same fast conversion time. It has the same specifications, but can use either I2C or SPI. For simple easy wiring, go with I2C. If you want to connect a bunch of sensors without worrying about I2C address collisions, go with SPI.
+This product doesn't include two displays or connector cables!
 
 ### License
 
