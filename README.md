@@ -12,7 +12,7 @@ The Snake Eyes Bonnet is a Raspberry Pi accessory for driving two 128x128 pixel 
 
 This product is just the Pi Bonnet itself, and some headers so you can plug it into a Pi. While it will work with any Raspberry Pi with a 2x20 Header (Pi B+, Pi 2, Pi 3, Pi Zero, etc) you'll get best performance from a Pi 3 since we do some heavy duty OpenGL rendering!
 
-This product doesn't include two displays or connector cables!
+**This product doesn't include two displays or connector cables!**
 
 ### License
 
